@@ -1,6 +1,6 @@
-##Recipe of a cake
+#Recipe of a cake
 
-#What You Need:
+What You Need:
 3 Eggs
 1 Cup Of All Purpose Flour
 1/2 Cup Of Sugar
